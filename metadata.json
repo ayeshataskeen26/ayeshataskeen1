@@ -1,0 +1,6 @@
+{
+  "name": "MolSpec Discovery",
+  "description": "AI-powered drug discovery workbench for SMILES molecular structure analysis, ADMET and toxicity prediction, physicochemical evaluation, and candidate screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
